@@ -1,10 +1,10 @@
-<center>Smarthome</center>
-=========
+#<center>Smarthome</center>
 
 Descriere
 ---------
 
-Smarthouse este proiect ce are drept scop 
+Smarthouse este proiect ce are drept scop implementarea conceptului de casa inteligenta. 
+
 
 Stack de tehnologii
 -------------------
@@ -17,7 +17,7 @@ Backend:
    - _**`Java Spring Boot`**_
 
 Clienti/Device-uri:
-   - Aplicatii java.
+   - Aplica?ii java.
 
 Avantaje
 --------
