@@ -33,3 +33,5 @@ Stack de tehnologii
  
 #### Clienți/Device-uri:
    - Aplicații java.
+
+###### Creat de _**`Turcu Nicușor`**_.
